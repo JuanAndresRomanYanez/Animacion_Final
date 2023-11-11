@@ -1,0 +1,97 @@
+{
+    "acciones": [
+        {
+            "objeto": [
+                {
+                    "Method": {
+                        "Name": "<OnLoad>b__8_0",
+                        "AssemblyName": "Proyecto1_01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                        "ClassName": "Proyecto1.Game",
+                        "Signature": "Void <OnLoad>b__8_0()",
+                        "Signature2": "System.Void <OnLoad>b__8_0()",
+                        "MemberType": 8,
+                        "GenericArguments": null
+                    },
+                    "Target": {
+                        "Context": {
+                            "ErrorChecking": true,
+                            "IsCurrent": true,
+                            "IsDisposed": false,
+                            "SwapInterval": 1,
+                            "GraphicsMode": {
+                                "Index": {
+                                    "value": 7
+                                },
+                                "ColorFormat": {
+                                    "Red": 8,
+                                    "Green": 8,
+                                    "Blue": 8,
+                                    "Alpha": 8,
+                                    "IsIndexed": false,
+                                    "BitsPerPixel": 32
+                                },
+                                "AccumulatorFormat": {
+                                    "Red": 16,
+                                    "Green": 16,
+                                    "Blue": 16,
+                                    "Alpha": 16,
+                                    "IsIndexed": false,
+                                    "BitsPerPixel": 64
+                                },
+                                "Depth": 16,
+                                "Stencil": 0,
+                                "Samples": 0,
+                                "Stereo": false,
+                                "Buffers": 2
+                            }
+                        },
+                        "IsExiting": false,
+                        "RenderFrequency": 1.0,
+                        "RenderPeriod": 0.0,
+                        "RenderTime": 0.0,
+                        "TargetRenderFrequency": 0.0,
+                        "TargetRenderPeriod": 0.0,
+                        "TargetUpdateFrequency": 60.0,
+                        "TargetUpdatePeriod": 0.016666666666666666,
+                        "UpdateFrequency": 1.0,
+                        "UpdatePeriod": 0.0,
+                        "UpdateTime": 0.0,
+                        "VSync": 1,
+                        "WindowState": 0,
+                        "Bounds": "275, 53, 816, 639",
+                        "ClientRectangle": "0, 0, 800, 600",
+                        "ClientSize": "800, 600",
+                        "Cursor": {},
+                        "Exists": true,
+                        "Focused": true,
+                        "Height": 600,
+                        "Icon": null,
+                        "Location": "275, 53",
+                        "Size": "816, 639",
+                        "Title": "Demo OpenTK",
+                        "Visible": true,
+                        "Width": 800,
+                        "WindowBorder": 0,
+                        "WindowInfo": {
+                            "Handle": {
+                                "value": 1574974
+                            },
+                            "Parent": null,
+                            "DeviceContext": {
+                                "value": -1727983284
+                            },
+                            "WindowHandle": {
+                                "value": 1574974
+                            }
+                        },
+                        "X": 275,
+                        "Y": 53,
+                        "CursorVisible": true,
+                        "CursorGrabbed": false
+                    }
+                }
+            ],
+            "tiempo": 50
+        }
+    ]
+}

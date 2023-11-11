@@ -1,0 +1,43 @@
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\obj\Debug\Proyecto1_01.csproj.AssemblyReference.cache
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\obj\Debug\Proyecto1_01.csproj.CoreCompileInputs.cache
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\bin\Debug\Proyecto1_01.exe.config
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\bin\Debug\Proyecto1_01.exe
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\bin\Debug\Proyecto1_01.pdb
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\bin\Debug\OpenTK.dll
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\bin\Debug\OpenTK.pdb
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\bin\Debug\OpenTK.xml
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\obj\Debug\Proyecto1_01.exe
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\obj\Debug\Proyecto1_01.pdb
+C:\MJP\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe.config
+C:\MJP\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.exe
+C:\MJP\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.pdb
+C:\MJP\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csprojResolveAssemblyReference.cache
+C:\MJP\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe
+C:\MJP\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.pdb
+C:\MJP\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.dll
+C:\MJP\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.pdb
+C:\MJP\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.xml
+C:\Users\DELL\Downloads\Programación gráfica\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe.config
+C:\Users\DELL\Downloads\Programación gráfica\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe
+C:\Users\DELL\Downloads\Programación gráfica\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.pdb
+C:\Users\DELL\Downloads\Programación gráfica\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.dll
+C:\Users\DELL\Downloads\Programación gráfica\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.pdb
+C:\Users\DELL\Downloads\Programación gráfica\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.xml
+C:\Users\DELL\Downloads\Programación gráfica\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Programación gráfica\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Programación gráfica\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csproj.CopyComplete
+C:\Users\DELL\Downloads\Programación gráfica\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.exe
+C:\Users\DELL\Downloads\Programación gráfica\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.pdb
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe.config
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.pdb
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.dll
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.pdb
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.xml
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csproj.AssemblyReference.cache
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csproj.CoreCompileInputs.cache
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csproj.CopyComplete
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.exe
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.pdb
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\bin\Debug\Newtonsoft.Json.dll
+C:\Programacion grafica\ELC102-Proyecto1-tarea-1\bin\Debug\Newtonsoft.Json.xml
